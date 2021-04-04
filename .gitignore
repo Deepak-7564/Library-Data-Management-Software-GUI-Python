@@ -1,0 +1,4 @@
+.vs/
+__pycache__/
+mysql_config.py
+mysqlenv/
